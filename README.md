@@ -12,12 +12,12 @@ New beta features in 0.1.0 release (disabled in admin panel by default):
 
 First add repository to composer configuration:
 ```bash
-composer config repositories.niks-multiple-layered-navigation vcs git@github.com:NikZh/magento2-multiple-layered-navigation.git
+composer config repositories.stevecordle-multiple-layered-navigation vcs git@github.com:stevecordle/magento2-multiple-layered-navigation.git
 ```
 
 Require new package with composer:
 ```bash
-composer require niks/multiple-layered-navigation
+composer require stevecordle/multiple-layered-navigation
 ```
 
 Enable module
